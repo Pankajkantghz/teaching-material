@@ -2,4 +2,4 @@
 
 This repo contains my practice projects.
 
-✅ Project URL: https://pankajkangthgz.github.io/teaching-material/single-page-cv/
+✅ Project URL: https://pankajkantghz.github.io/teaching-material/single-page-cv/
