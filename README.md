@@ -1,3 +1,3 @@
-🔗 Live Demo
+# Teaching Material
 
-Project url: https://pankajkantghz.github.io/teaching-material/single-page-cv/
+Project URL: [https://pankajkangthgz.github.io/teaching-material/single-page-cv/](https://pankajkangthgz.github.io/teaching-material/single-page-cv/)
