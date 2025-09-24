@@ -1,1 +1,1 @@
-https://pankajkantghz.github.io/teaching-material/single-page-cv/
+https://teaching-material-mocha.vercel.app/
